@@ -1,0 +1,7 @@
+{
+  "name": "Intech Broadband - Professional Billing & Collection",
+  "description": "A comprehensive payment collection and due management system for ISPs featuring role-based access, customer ledgers, and real-time dashboard analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
